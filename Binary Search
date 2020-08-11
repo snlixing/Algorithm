@@ -1,4 +1,5 @@
 //C# Binary Search
+
 public class BinaryTest
 {
     public static int binary(int[] array, int value)
